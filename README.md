@@ -10,7 +10,7 @@ An example of the scaled down art in the retail CD version:
 
 <img src="pics/EQ1CD.png" width="600" alt="Admam and Delphinus embrace in the pool. This image shows the scaled down graphics of the CD version."></img>
 
-Restored Floppy Disk art in the EQ1-CDR Patch:
+Restored Floppy Disk art in the EQ1-CDR patch:
 
 <img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
 
@@ -18,7 +18,7 @@ Issues with the CD version's palettes often ruin the background art:
 
 <img src="pics/ReefCD.png" width="600" alt="Example image showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
-Restored background in the EQ1-CDR Patch:
+Restored background in the EQ1-CDR patch:
 
 <img src="pics/ReefCDR.png" width="600" alt="Example of the restored original artwork from the Floppy Disk versions."></img>
 
@@ -51,7 +51,7 @@ This patch is for the CD (talkie) version only. You can verify the patch is acti
 
 <img src="pics/CDLogo.png" width="600" alt="The solid yellow logo of the CD version."></img>
 
-The EQ1-CDR Patch uses the gradient logo from the floppy version:
+The EQ1-CDR patch uses the gradient logo from the floppy version:
 
 <img src="pics/CDRLogo.png" width="600" alt="The restored gradient of the floppy verion logo art."></img>
 
