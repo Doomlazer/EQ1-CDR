@@ -23,6 +23,8 @@ Restored Floppy Disk art in the EQ1-CDR Patch:
 
 - Several Animation fixes and improvements.
 
+- Restored several unused messages and fish.
+
 - Copy protection restored (RTFM).
 
 - A new anachronistic Easter Egg to discover.
