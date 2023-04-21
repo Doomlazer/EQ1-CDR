@@ -4,7 +4,7 @@ EcoQuest 1 is a beautiful game. The undersea kingdom of Eluria is a sight to beh
 
 Unfortuanatly, all retail versions of the game have bugs and graphical issues. While the CD (talkie) version added some amazing voice work to the game, the artwork is objectivly worse compared to the original Floppy Disk version. For whatever reason, the CD graphics in many cases were scaled-down or altered in undesirable ways. 
 
-This fan patch for EQ1CD restores the glory of the original artwork, fixes the many bugs & transition issues, and attempts to create the best possible EQ1 player experience. 
+This fan patch for EQ1CD restores the original artwork, fixes the many bugs & transition issues, and attempts to create the best possible EQ1 player experience. 
 
 An example of the scaled down art in the retail CD version:
 
