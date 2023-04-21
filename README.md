@@ -14,11 +14,11 @@ Restored Floppy Disk art in the EQ1-CDR Patch:
 
 Missing colors in the retail CD version pallete ruin the background art :
 
-<img src="pics/EQ1CD.png" width="600" alt="Example image showing how pallete issues in the CD version diminish the beautiful backgrounds."></img>
+<img src="pics/ReefCD.png" width="600" alt="Example image showing how pallete issues in the CD version diminish the beautiful backgrounds."></img>
 
 Restored backgrounds in the EQ1-CDR Patch:
 
-<img src="pics/EQ1CDR.png" width="600" alt="Example of the restored original artwork from the Floppy Disk versions."></img>
+<img src="pics/ReefCDR.png" width="600" alt="Example of the restored original artwork from the Floppy Disk versions."></img>
 
 
 
