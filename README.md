@@ -10,7 +10,7 @@ An example of the scaled down art in the retail CD version:
 
 <img src="pics/EQ1CD.png" width="600" alt="Admam and Delphinus embrace in the pool. This image shows the scaled down graphics of the CD version."></img>
 
-Restored Floppy Disk art in the EQ1-CDR patch:
+Restored full-size art in the EQ1-CDR patch:
 
 <img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
 
