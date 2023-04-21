@@ -14,7 +14,7 @@ Restored Floppy Disk art in the EQ1-CDR Patch:
 
 <img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
 
-Missing colors in the palettes of the retail CD version often ruin the background art:
+Issues with the CD version's palettes often ruin the background art:
 
 <img src="pics/ReefCD.png" width="600" alt="Example image showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
