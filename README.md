@@ -49,7 +49,7 @@ This patch is for the CD (talkie) version only. You can verify the patch is acti
 
 <img src="pics/CDLogo.png" width="600" alt="The solid yellow logo of the CD version."></img>
 
-The EQ1-CDR Patch uses the gradient logo from the floppy version :
+The EQ1-CDR Patch uses the gradient logo from the floppy version:
 
 <img src="pics/CDRLogo.png" width="600" alt="The restored gradient of the floppy verion logo art."></img>
 
