@@ -61,7 +61,7 @@ Delete the "patch" folder from your EQ1CD game folder.
 
 ### Background
 
-This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> as part of his French translation. This patch wouldn't be possilbe without his hard work and dedication to the project.
+This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> as part of his French translation. He was the driving force behind this project and the patch wouldn't be possilbe without his hard work and dedication.
 
 "Threepwang and DL at Eluria! Threepwang and DL on the water."
 
@@ -74,8 +74,7 @@ Thanks to Threepwang for tracking the changes!
 142.SCR & HEP
 380.SCR & HEP
 381.SCR & HEP
-Official Sierra patches, present in the root of the CD-ROM.
-*In blue, patches modified for debugging purposes.
+Official Sierra patches, present in the root of the CD-ROM, are all intergrated into the project.
 
 5.SCR
 Allows to correct the missing sentence in the inventory,
