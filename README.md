@@ -18,7 +18,7 @@ Issues with the CD version's palettes often ruin the background art:
 
 <img src="pics/ReefCD.png" width="600" alt="Example image showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
-Restored backgrounds in the EQ1-CDR Patch:
+Restored background in the EQ1-CDR Patch:
 
 <img src="pics/ReefCDR.png" width="600" alt="Example of the restored original artwork from the Floppy Disk versions."></img>
 
