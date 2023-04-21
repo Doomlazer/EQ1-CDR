@@ -77,7 +77,7 @@ Official Sierra patches, present in the root of the CD-ROM.
 
 5.SCR
 Allows to correct the missing sentence in the inventory,
-if I use the "Main" icon on the tweezers. Msg 3, line 86: "Twang!
+Clicking on the tweezers. Msg 3, line 86: "Twang!
 Also allows to correct in msg 5, lines 4, 10, 22 and 23 according to the combination
 of the 3 elements that make up the sonar buoy, namely: "The buoy, the cable and the transmitter".
 Also allows you to centre the yellow frame under the inventory which contains the icons:
@@ -107,15 +107,6 @@ while Adam is still in the pool. Specifically, the 381.scr is used to center the
 70.scr
 Fix missing line in room400 "adam picks up the gerbil's full water bottle".
 
-160.SCR
-Correction to centre the interlude of msg 160, line 58:
-"Sometime later..."
-
-180.SCR & HEP
-Corrections to display line 2 of msg 180: "OUCH!".
-Appears when Adam is pinched by Demeter, just after cleaning the coral sculpture the coral sculpture in the shape of a sperm whale. 
-*Note that the 180.scr and 180.hep files are also used for the Easter egg, Larry Fish in addition to the 104.v56 and 104.aud files.
-
 221.SCR
 Corrects the 221 msg, it allows to see line 53, instead of line 32.
 
@@ -132,8 +123,6 @@ such as screws. Concerns msg 4, lines 35, 36 and 37.
 Corrected msg 300 to show line 17 instead of line 16. This was a text location bug.
 
 381.SCR
-Correction to msg 380, line 159: "Days pass..."
-It allows the interlude to be centered.
 Completes the "ThrowFrisbee" script.
 
 500.MAP & 500.MSG
@@ -145,7 +134,7 @@ I simply change 04 --> 01 in 500.map and 500.msg.
 
 521.SCR
 Correction to allow hammerhead to continue swimming,
-even during text bubbles.
+even during text bubbles as in the floppy version.
 
 561.SCR
 Fixed to change the dubbing and text in the 561 peak cave.
@@ -159,26 +148,13 @@ The sentence with the poison occurs if the player uses the lionfish spine on the
 Correction to show line 5 msg 580:
 "WITH TIME... HE MIGHT EVEN RECOVER FROM THE TOXINS THAT CAUSED HIS... MUTATION AND BECOME THE HARMLESS MANTA HE ONCE WAS."
 
-822.SCR & HEP & 952.V56
-Corrections to centre the control panel cells.
-This is necessary, as the length of the cells is intended for English.
-
-995.SCR & HEP & 0.MSG
-Corrections to force French, msg 0, line 2:
-"I don't have anything in my backpack right now.  Bummer."
-Otherwise it displays in English.
-Also, the sentence was changing fonts randomly.
-
 Palette problems:
-
-40.V56
-Game title in French.
 
 63.SCR & 1.P56
 Fixed the palette problem and the screen transition of the King's Quest 5 Easter egg.
 
 140.SCR & HEP & 148.V56
-Fixes the bug (under DOSBox only) of the puzzle exit at the oracle.
+Fixes the GFX bug (under DOSBox only) of disappearing tiles on puzzle exit at the oracle.
 When the puzzle is completed and the player clicks to exit the screen,
 there was a large rectangle with the wall in transparency during the "unzoom".
 Files 140.scr & 140.hep are original Sierra patches modified for the purpose.
@@ -256,9 +232,6 @@ when leaving the puzzle or panel.
 Restores in the little pink shark in file 50.v56, loop 0 and 1.
 *Note that it will only appear when Adam
 with Gregorious to the fisherman's boat.
-
-343.V56
-Translation of the view.
 
 420.HEP
 Fixes the palette problem with the colossus' head on the screen:
@@ -343,7 +316,7 @@ I simply centered the drawing of the icons concerned by hand.
 you should read my notes above about the 5.scr file.
 
 65.SCR & 400.SCR & 409.v56
-Allows you to activate the copy protection which is not active in the CD version.
+Activates the copy protection which was removed in the CD version.
 
 
 
