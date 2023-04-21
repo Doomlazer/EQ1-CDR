@@ -1,4 +1,4 @@
-# Eco Quest 1 - CD Recycled
+# EcoQuest 1 - CD Recycled
 
 EcoQuest 1 is a beautiful game. The undersea world of Eluria is still a sight to behold even today. Unfortuanatly, all versions of the game have bugs and graphical issues. While the CD (talkie) version added some amazing voice work to the game, the artwork suffered. For whatever reason, the CD graphics where sometimes scalesd down or altered in undesirable ways. 
 
@@ -50,6 +50,8 @@ Delete the "patch" folder from your EQ1CD game folder.
 ### Background
 
 This project is a colaboration with my dear friend Threepwang as part of his French text translation of the game. This patch wouldn't be possilbe without his hard work and dedication to the project.
+
+"Threepwang and DL at Eluria! Threepwang and DL on the water."
 
 ### Changes
 
