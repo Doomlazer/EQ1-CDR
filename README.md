@@ -61,7 +61,7 @@ Delete the "patch" folder from your EQ1CD game folder.
 
 ### Background
 
-This project is a colaboration with my dear friend Threepwang as part of his French translation. This patch wouldn't be possilbe without his hard work and dedication to the project.
+This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> as part of his French translation. This patch wouldn't be possilbe without his hard work and dedication to the project.
 
 "Threepwang and DL at Eluria! Threepwang and DL on the water."
 
