@@ -1,36 +1,36 @@
 # EcoQuest 1 - CD Recycled
 
-EcoQuest 1 is a beautiful game. The undersea world of Eluria is still a sight to behold even today. Unfortuanatly, all versions of the game have bugs and graphical issues. While the CD (talkie) version added some amazing voice work to the game, the artwork suffered. For whatever reason, the CD graphics where sometimes scalesd down or altered in undesirable ways. 
+EcoQuest 1 is a beautiful game. The undersea world of Eluria is a sight to behold even today. Unfortuanatly, all versions of the game have bugs and graphical issues. While the CD (talkie) version added some amazing voice work to the game, the artwork is objectivly worse compared to the original Floppy Disk version. For whatever reason, the CD graphics in many cases where scaled-down or altered in undesirable ways. 
 
-This fan patch for EQ1CD attempts to restore the glory of the floppy artwork, fix the many bugs & transition issues, and attempts to be the best possible EQ1 experience. 
+This fan patch for EQ1CD restores the glory of the original artwork, fixes the many bugs & transition issues, and attempts to be the best possible EQ1 experience. 
 
-Retail CD version:
+An example of the scaled down art in the retail CD version:
 
 <img src="pics/EQ1CD.png" width="600" alt="Admam and Delphinus embrace in the pool. This image shows the scaled down graphics of the CD version."></img>
 
-EQ1-CDR Patch:
+Restored Floppy Disk art in the EQ1-CDR Patch:
 
 <img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
 
 
 ### Highlights
 
-- All known bugs fixed.
+- All known bugs and broken messages fixed.
 
-- Superior backgrounds from the floppy version restored.
+- Restored backgrounds and views from the floppy version.
 
-- Pallete issues during transitions fixed or smoothed out.
+- All Transition pallete issues fixed or smoothed out.
 
 - Several Animation fixes and improvements.
 
-- Restored copy protection (RTFM).
+- Copy protection restored (RTFM).
 
 - A new anachronistic Easter Egg to discover.
 
 
 ### Installation 
 
-Place the "patch" folder in your EcoQuest 1 game folder and start normally. DOSBox users must add the following line to the end of the RESOURCE.CFG file in the game directory: 
+Place the "patch" folder in your EcoQuest 1 game folder and start normally. DOSBox users must add the following line to the end of the RESOURCE.CFG file found in the base game directory: 
 
 <code>patchDir = patch</code>
 
@@ -42,14 +42,13 @@ The EQ1-CDR Patch uses the gradient logo from the floppy version :
 
 <img src="pics/CDRLogo.png" width="600" alt="The restored gradient of the floppy verion logo art."></img>
 
-
 ### Uninstall
 
 Delete the "patch" folder from your EQ1CD game folder.
 
 ### Background
 
-This project is a colaboration with my dear friend Threepwang as part of his French text translation of the game. This patch wouldn't be possilbe without his hard work and dedication to the project.
+This project is a colaboration with my dear friend Threepwang as part of his French translation. This patch wouldn't be possilbe without his hard work and dedication to the project.
 
 "Threepwang and DL at Eluria! Threepwang and DL on the water."
 
