@@ -6,11 +6,11 @@ This fan patch for EQ1CD attempts to restore the glory of the floppy artwork, fi
 
 Retail CD version:
 
-<img scr="pics/EQ1CD.png" width="600" alt="Admam and Delphinus embrace in the pool. This image shows the scaled down graphics of the CD version."></img>
+<img src="pics/EQ1CD.png" width="600" alt="Admam and Delphinus embrace in the pool. This image shows the scaled down graphics of the CD version."></img>
 
 EQ1-CDR Patch:
 
-<img scr="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
+<img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
 
 
 ### Highlights
@@ -36,11 +36,11 @@ Place the "patch" folder in your EcoQuest 1 game folder and start normally. DOSB
 
 This patch is for the CD (talkie) version only. You can verify the patch is active by checking the title screen. The Retail CD version has a solid yellow "Eco":
 
-<img scr="pics/CDLogo.png" width="600" alt="The solid yellow logo of the CD version."></img>
+<img src="pics/CDLogo.png" width="600" alt="The solid yellow logo of the CD version."></img>
 
 The EQ1-CDR Patch uses the gradient logo from the floppy version :
 
-<img scr="pics/CDRLogo.png" width="600" alt="The restored gradient of the floppy verion logo art."></img>
+<img src="pics/CDRLogo.png" width="600" alt="The restored gradient of the floppy verion logo art."></img>
 
 
 ### Uninstall
