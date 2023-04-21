@@ -65,7 +65,7 @@ This project is a colaboration with my dear friend Threepwang as part of his Fre
 
 ### Changes
 
-Thanks to Thrpwng for tracking all the changes! 
+Thanks to Threepwang for tracking the changes! 
 
 61.SCR & HEP
 140.SCR & HEP
@@ -103,6 +103,9 @@ Minor code changes to fix frisbee reception issues.
 Relocalized line 137 of msg 380 if the player clicks on the frisbee on the cupboard,
 while Adam is still in the pool. Specifically, the 381.scr is used to center the interlude in msg 380, line 159:
 "Days pass...", as indicated in below.
+
+66.SCR
+Fix animation issue when cleaning bird.
 
 70.scr
 Fix missing line in room400 "adam picks up the gerbil's full water bottle".
