@@ -22,6 +22,14 @@ Restored background in the EQ1-CDR patch:
 
 <img src="pics/ReefCDR.png" width="600" alt="Example of the restored original artwork from the Floppy Disk versions."></img>
 
+Looking at the red fish with the key produces an error:
+
+<img src="pics/MsgCD.png" width="600" alt="Example image showing broken a broken message in the retail version."></img>
+
+Restored message in the EQ1-CDR patch:
+
+<img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
+
 
 
 ### Highlights
