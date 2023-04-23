@@ -38,6 +38,10 @@ Restored message in the EQ1-CDR patch:
 
 <img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
 
+Several unused messages restored:
+
+<img src="pics/gday.png" width="600" alt="A restored message when clicking on Austraila in room 400."></img>
+
 
 
 ### Highlights
