@@ -14,11 +14,11 @@ Restored full-size art in the EQ1-CDR patch:
 
 <img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
 
-Why do this:
+Another example of scaled-down graphics in the CD version:
 
 <img src="pics/FishCD.png" width="600" alt="An image showing the scaled-down Oracle vision."></img>
 
-When they already had this?:
+Restored full-size art in the EQ1-CDR patch:
 
 <img src="pics/FishCDR.png" width="600" alt="The Floppy Disk full size vision restored in EQ1-CRD."></img>
 
