@@ -177,11 +177,11 @@ Palette problems:
 63.SCR & 1.P56
 Fixed the palette problem and the screen transition of the King's Quest 5 Easter egg.
 
-140.SCR & HEP & 148.V56
+148.V56
 Fixes the GFX bug (under DOSBox only) of disappearing tiles on puzzle exit at the oracle.
 When the puzzle is completed and the player clicks to exit the screen,
-there was a large rectangle with the wall in transparency during the "unzoom".
-Files 140.scr & 140.hep are original Sierra patches modified for the purpose.
+there was a large rectangle with the wall in transparency during the "unzoom". The transparency has been filled in black for a more harmonious look.
+
 
 180.P56 & 184.v56
 Fixes the on-screen palette problem of the sperm whale coral sculpture.
