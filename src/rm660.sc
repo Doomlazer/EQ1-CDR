@@ -312,7 +312,9 @@
 			(0
 				(proc0_1)
 				(gEgo setMotion: 0)
-				(EcoNarrator init: 0 0 23 self)
+				;(EcoNarrator init: 0 0 23 self)
+				(EcoNarrator init: 2 0 0 23 0 640)
+				(self cue:)
 			)
 			(1
 				(proc819_9 gEgo 160 (gEgo y?) self)
