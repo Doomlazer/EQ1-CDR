@@ -9,9 +9,71 @@
 (use Sound)
 (use Cycle)
 (use Obj)
+(use View)
 
 (public
 	rm344 0
+)
+
+(instance rope0 of Prop
+	(properties
+		view 340
+		loop 0
+		cel 0
+		x 252
+		y 0
+		priority -1
+	)
+)
+(instance rope1 of Prop
+	(properties
+		view 340
+		loop 0
+		cel 0
+		x 252
+		y 39
+		priority -1
+	)
+)
+(instance rope2 of Prop
+	(properties
+		view 340
+		loop 0
+		cel 0
+		x 252
+		y 78
+		priority -1
+	)
+)
+(instance rope3 of Prop
+	(properties
+		view 340
+		loop 0
+		cel 0
+		x 252
+		y 117
+		priority -1
+	)
+)
+(instance rope4 of Prop
+	(properties
+		view 340
+		loop 0
+		cel 0
+		x 252
+		y 156
+		priority -1
+	)
+)
+(instance rope5 of Prop
+	(properties
+		view 340
+		loop 0
+		cel 0
+		x 252
+		y 195
+		priority -1
+	)
 )
 
 (procedure (localproc_0022 &tmp temp0)
@@ -39,6 +101,14 @@
 			setLoop: 2
 			ignoreHorizon: 1
 		)
+		(if (not (proc819_5 96)) ;harpoon dislodged
+			(rope0 init: addToPic:)
+			(rope1 init: addToPic:)
+			(rope2 init: addToPic:)
+			(rope3 init: addToPic:)
+			(rope4 init: addToPic:)
+			(rope5 init: addToPic:)
+		)
 		(if (not (proc819_5 85))
 			(gEgo setScript: whaleSoundScript)
 		)
@@ -47,15 +117,15 @@
 		(= style (= style -32759))
 		(super init:)
 		(gLongSong number: 332 loop: -1 play:)
-		(if (not (proc819_5 96)) (localproc_0022))
+		;(if (not (proc819_5 96)) (localproc_0022))
 	)
 	
 	(method (doit)
 		(super doit: &rest)
 		(Palette palANIMATE 160 207 12)
-		(if (and (GameIsRestarting) (not (proc819_5 96)))
-			(localproc_0022)
-		)
+;;;		(if (and (GameIsRestarting) (not (proc819_5 96)))
+;;;			(localproc_0022)
+;;;		)
 	)
 )
 
