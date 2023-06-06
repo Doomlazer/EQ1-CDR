@@ -127,7 +127,7 @@
 				(redFish setCycle: Fwd init:)
 			)
 		else
-			(= style (= style -32761))
+			(= style (= style $8009))
 			(self setScript: exitCaveScript)
 			(if (not (proc819_5 73))
 				(proc819_7)

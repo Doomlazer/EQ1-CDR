@@ -49,8 +49,8 @@
 (instance RM540 of EcoRoom
 	(properties
 		picture 901
-		style $0000
-		north 561
+		style $8009 ;note this value was changed by editing 540.hep with a hex editor because decompiling this script makes rocks float.
+ 		north 561
 		picAngle 80
 		vanishingX 180
 		vanishingY 10
@@ -328,7 +328,11 @@
 							(proc999_2 (+ 25 (* 9 global244)) 110)
 						)
 					)
-					(global2 drawPic: 540 9)
+					;(global2 drawPic: 540 9)
+					(global2 drawPic: 2 $8009) ;note: this change was made in a hex editor because decompiling 540.src in
+;scicompanion causes the rocks to float upward. To edit the bytecode to make this possible I had to duplicate 540.p56 as 2.p56 - shortening the number
+;freed up one byte and allowed me to change offset 820 from 0x381c023909 to 0x3902380980, which equates in sierrascript to a change of 540 9 to 2 $8009
+;pretty hacky, but it works without introducing any new bugs (at the sacrifice of a duplicte pic, but an extra 39k isn't a big deal for a CD based game) -DL
 				else
 					(= local81 1)
 					(global2 drawPic: 541)
