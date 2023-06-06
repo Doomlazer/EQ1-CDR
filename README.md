@@ -38,19 +38,11 @@ Restored message in the EQ1-CDR patch:
 
 <img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
 
-Palette issues in the CD version make the dark cave uglier:
-
-<img src="pics/CaveCD.png" width="600" alt="Example image showing cave palette issues."></img>
-
-Restored to the moody glory of the floppy version:
-
-<img src="pics/CaveCDR.png" width="600" alt="Example showing the restored cave palette."></img>
-
 I guess they wanted the rocks to stand out more in the CD version?:
 
 <img src="pics/CaveLightCD.png" width="600" alt="Example image showing cave lighting issues."></img>
 
-Looks so much better IMO:
+Restored palette and views from the floppy verion:
 
 <img src="pics/CaveLightCDR.png" width="600" alt="Example showing the restored cave lighting."></img>
 
