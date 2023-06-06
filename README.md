@@ -38,6 +38,22 @@ Restored message in the EQ1-CDR patch:
 
 <img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
 
+Palette issues in the CD version make the dark cave uglier:
+
+<img src="pics/CaveCD.png" width="600" alt="Example image showing cave palette issues."></img>
+
+Restored to the moody glory of the floppy version:
+
+<img src="pics/CaveCDR.png" width="600" alt="Example showing the restored cave palette."></img>
+
+I guess they wanted the rocks to stand out more in the CD version?:
+
+<img src="pics/CaveLightCD.png" width="600" alt="Example image showing cave lighting issues."></img>
+
+Looks so much better IMO:
+
+<img src="pics/CaveLightCDR.png" width="600" alt="Example showing the restored cave lighting."></img>
+
 Several unused messages restored:
 
 <img src="pics/gday.png" width="600" alt="A restored message when clicking on Austraila in room 400."></img>
@@ -283,10 +299,10 @@ Corrects the screen palette problems with the submersible:
 Corrects pallet problems at the cave entrance:
 520.p56
 
-540.PAL & 541.PAL & 542.PAL & 543.PAL & 540.V56 & 543.V56 & 823.V56
-Corrects palette problem of the "zoom" bubble outline on the box containing the protection suit.
-Corrects palette problem of the box in the bubble and everything in the bubble.
-Corrects the problem of the wall stones falling on the cave floor.
+540.SCR & 560.SCR & 540.PAL & 541.PAL & 542.PAL & 543.PAL & 2.P56 & 540.P56 & 541.P56 & 540.V56 & 543.V56 & 823.V56
+Corrects the palette problem of the cave walls.
+Corrects the palette problem between light and shadow with the bioluminescent fish, also the color of the menu bar title is now stable.
+Corrected the palette problem and the screen transition between the cave and the cache of toxic barrels.
 
 580.P56 & 580.V56 & 581.V56 & 583.V56 & 589.V56
 Restores all the details of the on-screen palette of the bow whaler.
