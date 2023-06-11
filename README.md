@@ -1,6 +1,6 @@
 # EcoQuest 1 - CD Recycled
 
-EcoQuest 1 is a beautiful game. The undersea kingdom of Eluria is a sight to behold, even by today's standards.
+EcoQuest 1 is a beautiful game. The undersea kingdom of Eluria is a sight to behold even by today's standards.
 
 Unfortuanatly, all retail versions of the game have bugs and graphical issues. While the CD (talkie) version added some amazing voice work to the game, the artwork is objectivly worse compared to the original Floppy Disk version. For whatever reason, the CD graphics in many cases were scaled-down or altered in undesirable ways. 
 
@@ -71,11 +71,11 @@ Several unused messages restored:
 
 ### Installation 
 
-Place the "patch" folder in your EcoQuest 1 game folder and start normally. DOSBox users must add the following line to the end of the RESOURCE.CFG file found in the base game directory: 
+Copy the "patch" folder into your EQ1CD game directory and start normally. DOSBox users must add the following line to the end of the RESOURCE.CFG file found in the base game directory: 
 
 <code>patchDir = patch</code>
 
-This patch is for the CD (talkie) version only. You can verify the patch is active by checking the title screen. The Retail CD version has a solid yellow "Eco":
+This patch is for the CD (talkie) version only; it is incompatible with the floppy versions. You can verify the patch is active by checking the title screen. The Retail CD version has a solid yellow "Eco":
 
 <img src="pics/CDLogo.png" width="600" alt="The solid yellow logo of the CD version."></img>
 
@@ -89,7 +89,7 @@ Delete the "patch" folder from your EQ1CD game folder.
 
 ### Background
 
-This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> as part of his EQ1 French translation. He was the driving force behind this project and the patch wouldn't be possilbe without his hard work and dedication.
+This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> as part of his EQ1CD French translation. He was the driving force behind this project. It would not have been possilbe without his hard work and attention to detail.
 
 "Threepwang and DL at Eluria! Threepwang and DL on the water."
 
