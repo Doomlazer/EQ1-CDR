@@ -89,7 +89,7 @@ Delete the "patch" folder from your EQ1CD game folder.
 
 ### Background
 
-This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> as part of his EQ1CD French translation. He was the driving force behind this project. It would not have been possilbe without his hard work and attention to detail.
+This project is a colaboration with my friend <a href="https://github.com/Thpwg">Threepwang</a> and is based on his <a href="https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/787413-ecoquest-i-version-cd-talkie-vo-st-fr">EQ1CD French translation</a>. He was the driving force behind this project. It would not have been possilbe without his hard work and attention to detail.
 
 "Threepwang and DL at Eluria! Threepwang and DL on the water."
 
