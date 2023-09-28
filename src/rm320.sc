@@ -205,7 +205,7 @@
 (instance easternCliffs of EcoView
 	(properties
 		x 149
-		y 51
+		y 307 ;51
 		view 326
 		signal $5001
 		lookStr 3
@@ -224,7 +224,7 @@
 (instance westernCliffs of EcoView
 	(properties
 		x 4
-		y 20
+		y 276 ;20
 		view 325
 		signal $5001
 		lookStr 3

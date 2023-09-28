@@ -125,7 +125,7 @@
 				(global2 drawPic: 320)
 				(switch global112
 					(0
-						(easternCliffs init:)
+						(easternCliffs dispose:)
 						(if (global2 obstacles?)
 							((global2 obstacles?) eachElementDo: #dispose release:)
 						)
@@ -159,7 +159,7 @@
 				(global2 drawPic: 320)
 				(switch global112
 					(4
-						(westernCliffs init:)
+						(westernCliffs dispose:)
 						(if (global2 obstacles?)
 							((global2 obstacles?) eachElementDo: #dispose release:)
 						)
@@ -183,7 +183,7 @@
 (instance easternCliffs of EcoView
 	(properties
 		x 235
-		y 56
+		y 312 ;56
 		view 326
 		signal $5001
 	)
@@ -199,7 +199,7 @@
 
 (instance westernCliffs of EcoView
 	(properties
-		y 50
+		y 306 ;50
 		view 325
 		signal $5001
 	)
