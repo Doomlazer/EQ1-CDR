@@ -64,7 +64,12 @@
 		(plantLeft setCycle: Fwd init:)
 		(plantRight setCycle: Fwd init:)
 		(if
-		(and (not (proc819_5 999)) (not (Random 0 2)))
+			(and
+				(not (proc819_5 999)) ; TODO: this is wrong. Flag 999 overflows the designated flag range and is stored in global214
+									  ; global214 is set to 18 during game init, but doesn't appear to be used anywhere.
+									  ; Need to figure out the max number of flags and switch 999 to the first available unused flag.
+				(not (Random 0 2))
+			)
 			(fishEasterEgg init:)
 		)
 		(if (not (proc819_5 8)) (oilOnWhale init: stopUpd:))
@@ -1758,7 +1763,7 @@
 	
 	(method (doEgg)
 		(if (and (== (self x?) 286) (== (self y?) 183))
-			(proc819_3 999)
+			(proc819_3 999) ; TODO: fix this to match the new flag number when the bug rm180::init is fixed.
 			(gSoundEffects number: 104 play:)
 			(DoAudio 7 11025)
 			(self setMotion: MoveTo -50 160)
