@@ -54,7 +54,7 @@ Several unused messages restored:
 
 ### Highlights
 
-- All known bugs and broken messages fixed.
+- Many, many bugs and broken messages fixed.
 
 - Restored backgrounds and views from the floppy version.
 
@@ -64,7 +64,7 @@ Several unused messages restored:
 
 - Several Animation fixes and improvements.
 
-- Copy protection restored (RTFM).
+- Copy protection restored.
 
 - A new anachronistic Easter Egg to discover.
 
