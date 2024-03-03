@@ -18,7 +18,7 @@ The view for the rocks was simplified in the CD version. The light grey 'highlig
 
 <img src="pics/pal3.gif" width="800" alt="Example gif showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
-Looking at the red fish with the key produces a message error (one of many):
+The screenshot below shows looking at the red fish with the key produces an error (one of many):
 
 <img src="pics/MsgCD.png" width="600" alt="Example image showing broken a broken message in the retail version."></img>
 
@@ -26,7 +26,7 @@ Restored message and background palette in the EQ1-CDR patch:
 
 <img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
 
-Several unused voice actor messages restored:
+Several unused voice actor messages restored and more:
 
 <img src="pics/gday.png" width="600" alt="A restored message when clicking on Austraila in room 400."></img>
 
@@ -36,7 +36,7 @@ Several unused voice actor messages restored:
 
 - Many, many bugs and broken messages fixed.
 
-- Restored backgrounds and views from the floppy version.
+- Many restored backgrounds and views from the floppy version.
 
 - Palette and transition issues fixed.
 
