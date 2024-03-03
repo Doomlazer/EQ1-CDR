@@ -1,54 +1,34 @@
 # EcoQuest 1 - CD Recycled
 
-EcoQuest 1 is a beautiful game. The undersea kingdom of Eluria is a sight to behold even by today's standards.
+EcoQuest 1 is a beautiful game. The 256 color undersea kingdom of Eluria is a sight to behold even by today's standards.
 
 Unfortuanatly, all retail versions of the game have bugs and graphical issues. While the CD (talkie) version added some amazing voice work to the game, the artwork is objectivly worse compared to the original Floppy Disk version. For whatever reason, the CD graphics in many cases were scaled-down or altered in undesirable ways. 
 
 This fan patch for EQ1CD restores the original artwork, fixes the many bugs & transition issues, and attempts to create the best possible EQ1 player experience. 
 
-An example of the scaled down art in the retail CD version:
+Issues with the CD version's palettes often ruin the background art. The black areas are caused by missing palette colors:
 
-<img src="pics/EQ1CD.png" width="600" alt="Admam and Delphinus embrace in the pool. This image shows the scaled down graphics of the CD version."></img>
+<img src="pics/pal.gif" width="800" alt="Example gif showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
-Restored full-size art in the EQ1-CDR patch:
+Artwork was scaled down in many places. This patch restores the larger floppy versions:
 
-<img src="pics/EQ1CDR.png" width="600" alt="Admam and Delphinus embrace. Showing off the restored grapics of from the floppy version."></img>
+<img src="pics/pal2.gif" width="800" alt="Example gif showing scale artwork in the patched and unpatched versions."></img>
 
-Another example of scaled-down graphics in the CD version:
+The view for the rocks was simplified in the CD version. The light grey 'highlights' on the stalagmites are really a palette error. The restored floppy cave is dark as originally intended:
 
-<img src="pics/FishCD.png" width="600" alt="An image showing the scaled-down Oracle vision."></img>
-
-Restored full-size art in the EQ1-CDR patch:
-
-<img src="pics/FishCDR.png" width="600" alt="The Floppy Disk full size vision restored in EQ1-CRD."></img>
-
-Issues with the CD version's palettes often ruin the background art:
-
-<img src="pics/ReefCD.png" width="600" alt="Example image showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
-
-Restored background in the EQ1-CDR patch:
-
-<img src="pics/ReefCDR.png" width="600" alt="Example of the restored original artwork from the Floppy Disk versions."></img>
+<img src="pics/pal3.gif" width="800" alt="Example gif showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
 Looking at the red fish with the key produces an error (one of many):
 
-<img src="pics/MsgCD.png" width="600" alt="Example image showing broken a broken message in the retail version."></img>
+<img src="pics/MsgCD.png" width="800" alt="Example image showing broken a broken message in the retail version."></img>
 
 Restored message in the EQ1-CDR patch:
 
-<img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
-
-I guess they wanted the rocks to stand out more in the CD version?:
-
-<img src="pics/CaveLightCD.png" width="600" alt="Example image showing cave lighting issues."></img>
-
-Restored palette and views from the floppy verion:
-
-<img src="pics/CaveLightCDR.png" width="600" alt="Example showing the restored cave lighting."></img>
+<img src="pics/MsgCDR.png" width="800" alt="Example of the restored message in the patch."></img>
 
 Several unused messages restored:
 
-<img src="pics/gday.png" width="600" alt="A restored message when clicking on Austraila in room 400."></img>
+<img src="pics/gday.png" width="800" alt="A restored message when clicking on Austraila in room 400."></img>
 
 
 
