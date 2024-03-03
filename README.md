@@ -20,15 +20,15 @@ The view for the rocks was simplified in the CD version. The light grey 'highlig
 
 Looking at the red fish with the key produces a message error (one of many):
 
-<img src="pics/MsgCD.png" width="800" alt="Example image showing broken a broken message in the retail version."></img>
+<img src="pics/MsgCD.png" width="600" alt="Example image showing broken a broken message in the retail version."></img>
 
 Restored message and background palette in the EQ1-CDR patch:
 
-<img src="pics/MsgCDR.png" width="800" alt="Example of the restored message in the patch."></img>
+<img src="pics/MsgCDR.png" width="600" alt="Example of the restored message in the patch."></img>
 
 Several unused voice actor messages restored:
 
-<img src="pics/gday.png" width="800" alt="A restored message when clicking on Austraila in room 400."></img>
+<img src="pics/gday.png" width="600" alt="A restored message when clicking on Austraila in room 400."></img>
 
 
 
