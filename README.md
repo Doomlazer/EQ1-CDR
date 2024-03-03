@@ -6,7 +6,7 @@ Unfortuanatly, all retail versions of the game have bugs and graphical issues. W
 
 This fan patch for EQ1CD restores the original artwork, fixes the many bugs & transition issues, and attempts to create the best possible EQ1 player experience. 
 
-Issues with the CD version's palettes often ruin the background art. The black areas are caused by missing palette colors:
+Issues with the CD version's palettes often ruin the background art. The black areas in the gif below are caused by missing palette colors:
 
 <img src="pics/pal.gif" width="800" alt="Example gif showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
