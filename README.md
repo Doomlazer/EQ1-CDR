@@ -6,19 +6,19 @@ Unfortuanatly, all retail versions of the game have bugs and graphical issues. W
 
 This fan patch for EQ1CD restores the original artwork, fixes the many bugs & transition issues, and attempts to create the best possible EQ1 player experience. 
 
-Issues with the CD version's palettes often ruin the background art. The black areas in the gif below are caused by missing palette colors:
+Issues with the CD version's palettes often ruin the background art. The animated GIF below toggles between Sierra's CD release and the EQ1-CDR versions. The black areas in the original are caused by missing palette data:
 
 <img src="pics/pal.gif" width="800" alt="Example gif showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
-Artwork was scaled down in many places. This patch restores the larger floppy versions:
+Artwork was scaled down in many places. This patch restores the larger floppy versions. (GIF below toggles between CD and CDR):
 
 <img src="pics/pal2.gif" width="800" alt="Example gif showing scale artwork in the patched and unpatched versions."></img>
 
-The view for the rocks was simplified in the CD version. The light grey 'highlights' on the stalagmites are really a palette error. The restored floppy cave is dark as originally intended:
+The view for the rocks was simplified in the CD version. The light grey 'highlights' on the stalagmites are really a palette error. The restored floppy cave is much darker, as originally intended (GIF below toggles between CD and CDR):
 
 <img src="pics/pal3.gif" width="800" alt="Example gif showing how palette issues in the CD version diminish the beautiful backgrounds."></img>
 
-The screenshot below shows looking at the red fish with the key produces an error (one of many):
+The screenshot below shows an error produced by looking at the red fish with the key:
 
 <img src="pics/MsgCD.png" width="600" alt="Example image showing broken a broken message in the retail version."></img>
 
